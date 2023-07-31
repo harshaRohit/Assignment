@@ -1,0 +1,25 @@
+
+.task-form {
+    margin-bottom: 20px;
+    padding: 2% 10% 10% 10%;
+  }
+  
+  .form-row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+  }
+  
+  .form-group {
+    flex: 1;
+    margin-right: 10px;
+  }
+  
+  .form-group:last-child {
+    margin-right: 0;
+  }
+
+  label{
+    margin-right: 20px;
+  }
+  
